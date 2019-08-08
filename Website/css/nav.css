@@ -2,7 +2,7 @@ nav{
     text-align: center;
     background: aqua url(../img/nav_wood_texture.jpg);
     padding:0;
-    height: 5em;
+    height: 100%;
 }
 nav ul{
     display: inline-block;
@@ -12,8 +12,9 @@ nav li{
     display: inline;
     padding: 1em 2em;
     margin: 0.5em;
-    background: #8C4511 url(../img/nav_plank_texture_half.jpg);
-    
+    background-color: #8C4511;
+    background-image: url(../img/nav_menu-item.jpg);
+	background-size: 7em; 
 }
 nav a{
     text-decoration: none;
