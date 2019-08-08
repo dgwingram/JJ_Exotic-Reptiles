@@ -1,0 +1,23 @@
+nav{
+    text-align: center;
+    background: aqua url(../img/nav_wood_texture.jpg);
+    padding:0;
+    height: 5em;
+}
+nav ul{
+    display: inline-block;
+    list-style: none
+}
+nav li{
+    display: inline;
+    padding: 1em 2em;
+    margin: 0.5em;
+    background: #8C4511 url(../img/nav_plank_texture_half.jpg);
+    
+}
+nav a{
+    text-decoration: none;
+    padding: .5em 3em;
+    text-transform: uppercase;
+    color: white;    
+}
