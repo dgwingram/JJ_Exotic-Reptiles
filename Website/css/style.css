@@ -1,0 +1,34 @@
+/*
+    Colors:
+        blue:       50AAD4
+        Grey:       A5B4B0
+        black:      000000
+        green1:     6B881E  
+        green2:     4B913C
+
+    Img Color
+        #0ABF04  CPL    #8C4511 #733508
+        #055902
+        #022601
+        #098C04
+        #044002
+        or #2D90A6  | #F2EBDC
+
+*/
+body{
+    margin: 0;
+    background-image: url(../img/background.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    
+}
+h1{
+    font-family: 'Permanent Marker', cursive;
+}
+h2{
+    font-family: 'Gloria Hallelujah', cursive;
+}
+h3{
+    font-family: 'IBM Plex Sans', sans-serif;
+}
